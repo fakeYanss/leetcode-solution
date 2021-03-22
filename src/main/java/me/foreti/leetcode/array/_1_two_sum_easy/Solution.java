@@ -1,6 +1,6 @@
-package me.foreti.leetcode.array._1_two_sum;
+package me.foreti.leetcode.array._1_two_sum_easy;
 
-import me.foreti.leetcode.array.util.JsonUtils;
+import me.foreti.leetcode.util.JsonUtils;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -18,10 +18,10 @@ import java.util.Map;
  * Because nums[0] + nums[1] = 2 + 7 = 9,
  * return [0, 1]
  *
- *  @author guichen01
+ *  @author fakeyanss
  * create date: 2020/9/8
  */
-public class TwoSum {
+public class Solution {
 
     /**
      * 顺序遍历数组，用map存数字和下标，key为数字，value为下标，每次从map获取当前数字的另一半数字，找不到则存入map。
@@ -39,7 +39,7 @@ public class TwoSum {
     }
 
     public static void main(String[] args) {
-        TwoSum twoSum = new TwoSum();
+        Solution twoSum = new Solution();
         JsonUtils.printJsonPrettyString(twoSum.solution(new int[]{2, 7, 11, 15}, 9));
         JsonUtils.printJsonPrettyString(twoSum.solution(new int[]{2, 7, 11, 15}, 13));
         JsonUtils.printJsonPrettyString(twoSum.solution(new int[]{2, 7, 11, 15}, 10));

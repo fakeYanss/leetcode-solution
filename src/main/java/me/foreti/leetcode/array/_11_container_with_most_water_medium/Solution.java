@@ -1,6 +1,6 @@
-package me.foreti.leetcode.array._11_container_with_most_water;
+package me.foreti.leetcode.array._11_container_with_most_water_medium;
 
-import me.foreti.leetcode.array.util.JsonUtils;
+import me.foreti.leetcode.util.JsonUtils;
 
 /**
  *Given n non-negative integers a1, a2, …, an , where each represents a point at coordinate (i, ai). n vertical lines
@@ -17,10 +17,10 @@ import me.foreti.leetcode.array.util.JsonUtils;
  * Input: [1,8,6,2,5,4,8,3,7]
  * Output: 49
  *
- * @author guichen01
+ * @author fakeyanss
  * create date: 2020/9/8
  */
-public class MaxArea {
+public class Solution {
 
     /**
      * 给出一个非负整数数组 a1，a2，a3，…… an，每个整数标识一个竖立在坐标轴 x 位置的一堵高度为 ai 的墙，选择两堵墙，
@@ -47,7 +47,7 @@ public class MaxArea {
     }
 
     public static void main(String[] args) {
-        MaxArea maxArea = new MaxArea();
+        Solution maxArea = new Solution();
         JsonUtils.printJsonPrettyString(maxArea.solution(new int[]{1, 8, 6, 2, 5, 4, 8, 3, 7}));
     }
 

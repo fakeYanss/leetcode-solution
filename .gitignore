@@ -27,3 +27,7 @@ proguard/
 # Others
 .idea/
 *.iml
+.classpath
+.project
+.vscode
+.settings

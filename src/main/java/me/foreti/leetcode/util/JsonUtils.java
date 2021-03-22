@@ -1,4 +1,4 @@
-package me.foreti.leetcode.array.util;
+package me.foreti.leetcode.util;
 
 import com.fasterxml.jackson.annotation.JsonInclude.Include;
 import com.fasterxml.jackson.core.JsonFactory;
