@@ -12,3 +12,4 @@
 | 39 | [Combination Sum ](https://leetcode.com/problems/combination-sum) | [Java](./src/main/java/me/foreti/leetcode/array/_39_combination_sum_medium/Solution.java) | Medium |
 | 40 | [Combination Sum II ](https://leetcode.com/problems/combination-sum-ii) | [Java](./src/main/java/me/foreti/leetcode/array/_40_combination_sum_ii_medium/Solution.java) | Medium |
 | 116 | [Populating Next Right Pointers In Each Node ](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | [Java](./src/main/java/me/foreti/leetcode/tree/_116_populating_next_right_pointers_in_each_node_medium/Solution.java) | Medium |
+| 226 | [Invert Binary Tree ](https://leetcode.com/problems/invert-binary-tree) | [Java](./src/main/java/me/foreti/leetcode/tree/_226_invert_binary_tree_easy/Solution.java) | Easy |
