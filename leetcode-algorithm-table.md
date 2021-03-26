@@ -16,4 +16,5 @@
 | 114 | [Flatten Binary Tree To Linked List ](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [Java](./src/main/java/me/foreti/leetcode/tree/_114_flatten_binary_tree_to_linked_list_medium/Solution.java) | Medium |
 | 116 | [Populating Next Right Pointers In Each Node ](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | [Java](./src/main/java/me/foreti/leetcode/tree/_116_populating_next_right_pointers_in_each_node_medium/Solution.java) | Medium |
 | 226 | [Invert Binary Tree ](https://leetcode.com/problems/invert-binary-tree) | [Java](./src/main/java/me/foreti/leetcode/tree/_226_invert_binary_tree_easy/Solution.java) | Easy |
+| 652 | [Find Duplicate Subtrees ](https://leetcode.com/problems/find-duplicate-subtrees) | [Java](./src/main/java/me/foreti/leetcode/tree/_652_find_duplicate_subtrees_medium/Solution.java) | Medium |
 | 654 | [Maximum Binary Tree ](https://leetcode.com/problems/maximum-binary-tree) | [Java](./src/main/java/me/foreti/leetcode/tree/_654_maximum_binary_tree_medium/Solution.java) | Medium |
