@@ -3,6 +3,7 @@
 | # | Title | Solution  | Difficulty |
 | --- | --- | --- | --- |
 | 1 | [Two Sum ](https://leetcode.com/problems/two-sum) | [Java](./src/main/java/me/foreti/leetcode/array/_1_two_sum_easy/Solution.java) | Easy |
+| 2 | [Add Two Numbers ](https://leetcode.com/problems/add-two-numbers) | [Java](./src/main/java/me/foreti/leetcode/linkedlist/_2_add_two_numbers_medium/Solution.java) | Medium |
 | 11 | [Container With Most Water ](https://leetcode.com/problems/container-with-most-water) | [Java](./src/main/java/me/foreti/leetcode/array/_11_container_with_most_water_medium/Solution.java) | Medium |
 | 15 | [3Sum ](https://leetcode.com/problems/3sum) | [Java](./src/main/java/me/foreti/leetcode/array/_15_3sum_medium/Solution.java) | Medium |
 | 16 | [3Sum Closest ](https://leetcode.com/problems/3sum-closest) | [Java](./src/main/java/me/foreti/leetcode/array/_16_3sum_closest_medium/Solution.java) | Medium |
