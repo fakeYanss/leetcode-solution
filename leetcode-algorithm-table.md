@@ -13,6 +13,7 @@
 | 39 | [Combination Sum ](https://leetcode.com/problems/combination-sum) | [Java](./src/main/java/me/foreti/leetcode/array/_39_combination_sum_medium/Solution.java) | Medium |
 | 40 | [Combination Sum II ](https://leetcode.com/problems/combination-sum-ii) | [Java](./src/main/java/me/foreti/leetcode/array/_40_combination_sum_ii_medium/Solution.java) | Medium |
 | 61 | [Rotate List ](https://leetcode.com/problems/rotate-list) | [Java](./src/main/java/me/foreti/leetcode/linkedlist/_61_rotate_list_medium/Solution.java) | Medium |
+| 88 | [Merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array) | [Java](./src/main/java/me/foreti/leetcode/array/_88_merge_sorted_array_easy/Solution.java) | Easy |
 | 105 | [Construct Binary Tree From Preorder And Inorder Traversal ](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [Java](./src/main/java/me/foreti/leetcode/tree/_105_construct_binary_tree_from_preorder_and_inorder_traversal_medium/Solution.java) | Medium |
 | 106 | [Construct Binary Tree From Inorder And Postorder Traversal ](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | [Java](./src/main/java/me/foreti/leetcode/tree/_106_construct_binary_tree_from_inorder_and_postorder_traversal_medium/Solution.java) | Medium |
 | 114 | [Flatten Binary Tree To Linked List ](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | [Java](./src/main/java/me/foreti/leetcode/tree/_114_flatten_binary_tree_to_linked_list_medium/Solution.java) | Medium |
