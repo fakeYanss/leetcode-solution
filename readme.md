@@ -6,7 +6,8 @@
 
 **20210317 updated:** 被迫刷题:smile:
 
-[LeetCode Algorithm Table](leetcode-algorithm-table.md)
+
+### [LeetCode Algorithm Table](leetcode-algorithm-table.md)
 
 **项目期望：**
 - [ ] 用java解决包含但不限于array/tree/graph等几种数据结构、分治/DP/backtrack等几种算法思想的题目，并取得平均题解runtime beats 80%的成绩。
